@@ -1,0 +1,12 @@
+body {
+    background-image: url('PrisonBreakImage.jpg'); /*filepath works for Pc, not for Mac for some reason */
+    background-size: cover;
+        
+    
+    
+
+
+html, body {
+	height: 100%;
+	width: 100%;
+}	
